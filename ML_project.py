@@ -8,12 +8,6 @@ Original file is located at
 
 # **fraudulent transactions classification**
 
-**Student Name:**
-
-1.   Anfal saad alkuraydis  444009033
-2.   Layal Abdullah Alamrani 444011178
-3.   Haya Abdullah Alhodaib  444009004
-4.   Atheer Alshehri 444009021
 
 **Context**
 
