@@ -6,8 +6,13 @@ The dataset simulates 30 days of transactions, where a small portion are labeled
 Our main goal is to build models that can identify fraud effectively while exploring different preprocessing and modeling strategies.
 
 ---
+## 📂 Dataset
+The dataset used in this project is available on Kaggle:  
+[Fraudulent Transactions Dataset](https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data)
 
-## 🛠️ What We Did
+---
+
+## 🛠️ What I Did
 1. **Data Exploration**
    - Explored transaction types, amounts, and patterns of fraud.
    - Visualized distributions with histograms, pie charts, and correlation heatmaps.
@@ -60,7 +65,6 @@ While this is a simple baseline project, here are some areas for enhancement:
 ---
 
 
----
 
 ✨ This project serves as a **starting point for fraud detection** with clear opportunities for improvement.  
 It’s simple, yet demonstrates key steps in a real-world ML workflow.
