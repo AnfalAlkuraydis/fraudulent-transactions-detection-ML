@@ -59,12 +59,6 @@ While this is a simple baseline project, here are some areas for enhancement:
 
 ---
 
-## 👥 Contributors
-- Anfal Alkuraydis  
-- Modhi Alhamdan  
-- Haya Alhodaib  
-- Nada Almutairi  
-- Norah Almezied  
 
 ---
 
