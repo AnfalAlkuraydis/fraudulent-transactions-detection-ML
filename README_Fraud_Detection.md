@@ -38,13 +38,13 @@ Class labels: `isFraud` and `isFlaggedFraud`.
 
 ```mermaid
 flowchart LR
-  A["Raw data<br/>(30 days of transactions)"] --> B["EDA<br/>distributions · fraud rate · correlations"]
+  A["Dataset<br/>30 days of transactions"] --> B["EDA<br/>distributions · fraud rate · correlations"]
   B --> C["Preprocessing<br/>encode categoricals · drop collinear · scale"]
-  C --> D["Train/Test Split<br/>80/20"]
-  D --> E["Modeling<br/>Naive Bayes · Logistic Regression · Random Forest"]
+  C --> D["Split<br/>train 80% / test 20%"]
+  D --> E["Modeling<br/>Naive Bayes · Logistic · Random Forest"]
   E --> F["Evaluation<br/>accuracy · precision · recall · ROC-AUC"]
-  F --> G["Model Selection<br/>Random Forest (best baseline)"]
-  G --> H["Next Steps<br/>SMOTE · class weights · tuning · API"]
+  F --> G["Model selection<br/>Random Forest (baseline)"]
+
 ```
 
 ---
